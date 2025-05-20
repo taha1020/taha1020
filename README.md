@@ -44,6 +44,4 @@ A dedicated **Laravel & Frontend Developer** from Faisalabad, Pakistan 🇵🇰,
 
 ---
 
-## 📈 GitHub Insights (Optional)
-
-![Taha's GitHub Stats](https://github-read)
+ 
